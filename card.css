@@ -1,0 +1,59 @@
+.firstdiv{
+width: 700px;
+height: 700px;
+background-color:greenyellow;
+padding-top: 400px;
+}
+
+.seconddiv{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.thirddiv{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    border-top-left-radius:40px; border-top-right-radius:40px ;
+    padding-top: 20px;
+    
+}
+
+.cardstring{
+    width: 70px;
+    height:20px;
+    background-color: black;
+    margin: auto;
+}
+
+.imageholder{
+    width: 75px;
+    height:100px;
+    margin:auto;
+    padding-top: 30px;
+    
+}
+h1{
+    font: size 12; ;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white
+}
+h2{
+    font-size: 4;
+    font-weight: bolder;
+    font-style:normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black ;
+}
+h3{
+    font-size: 2;
+    font-weight: bolder;
+    font-style:normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black ;
+}
