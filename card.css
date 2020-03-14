@@ -1,7 +1,7 @@
 .firstdiv{
 width: 700px;
 height: 700px;
-background-color:greenyellow;
+background-color:lawngreen;
 padding-top: 400px;
 }
 
@@ -24,9 +24,11 @@ padding-top: 400px;
 
 .cardstring{
     width: 70px;
-    height:20px;
+    height:10px;
     background-color: black;
     margin: auto;
+    border-radius: 40px 40px 40px 40px;
+    
 }
 
 .imageholder{
